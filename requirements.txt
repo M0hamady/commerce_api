@@ -19,7 +19,6 @@ openpyxl==3.1.5
 pillow==10.2.0
 PyJWT==1.7.1
 pytz==2024.1
-pywin32==306
 requests==2.31.0
 slack_sdk==3.29.0
 slackclient==2.9.4
